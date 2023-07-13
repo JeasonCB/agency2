@@ -10,8 +10,8 @@ const Hero = () => {
         </video>
       <div className=" absolute h-screen w-full" ></div>
         <div className="max-w-md relative">
-          <h1 className="mb-5 text-5xl font-bold">Una agencia web de infinitas posibilidades</h1>
-          <p className="mb-5">Creamos experiencias, forjamos sueños, abrimos caminos al futuro.</p>
+          <h1 className="mb-5 text-3xl font-bold mx-16">Una agencia infinitas posibilidades</h1>
+          <p className="mb-2 mx-16">Creamos experiencias, forjamos sueños, abrimos caminos al futuro.</p>
           <button className="btn btn-outline text-white backdrop-blur-xl mt-6">Conoce más</button>
         </div>
       </div>
