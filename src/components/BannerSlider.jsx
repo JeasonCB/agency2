@@ -9,12 +9,11 @@ function BannerSlider () {
           type="video/mp4"
         />
       </video>
-      
+
       <div className="absolute text-white text-center w-[15rem] backdrop-blur-[1px] rounded-full bg-black/10">
         <h1 className="text-2xl font-bold uppercase">Bienvenido a<br />Área 51 </h1>
         <h2 className="text-sm mt-4 font-semibold">Con tecnología de punta creamos las páginas web más rápidas del mercado</h2>
         <button className='btn btn-outline text-xs text-white backdrop-blur-xl mt-6 mb-1'>Descubre como</button>
-    
 </div>
     </div>
   )
