@@ -12,7 +12,7 @@ export default function Home () {
          no generes malas expectativas.
          No des una mala impresión
          {/* <BannerSlider /> */}
-         lorem</p>
+         lorems</p>
       </main>
     </>
   )
